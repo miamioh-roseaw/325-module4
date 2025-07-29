@@ -14,10 +14,7 @@ devices = [
     {'ip': '10.10.10.1', 'hostname': 'mgmt-rtr'},
     {'ip': '10.10.10.2', 'hostname': 'reg-rtr'},
     {'ip': '10.10.10.3', 'hostname': 'ham-rtr'},
-    {'ip': '10.10.10.4', 'hostname': 'mid-rtr'},
-    {'ip': '10.10.10.5', 'hostname': 'mgmt-sw'},
-    {'ip': '10.10.10.6', 'hostname': 'ham-sw'},
-    {'ip': '10.10.10.7', 'hostname': 'mid-sw'}
+    {'ip': '10.10.10.4', 'hostname': 'mid-rtr'}
 ]
 
 # Loop through each device and capture output
